@@ -1,0 +1,26 @@
+*{ 
+    margin: 0; 
+} 
+img{ 
+    width: 300px; 
+    height: 300px; 
+} 
+
+.container{
+    background-color: rosybrown;
+   
+}
+
+
+
+body{ 
+   color: antiquewhite;
+} 
+.pizza{ 
+    margin-top: 10px; 
+    margin-left: 10px; 
+  
+   display: inline-block;
+   
+} 
+
